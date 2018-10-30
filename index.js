@@ -32,8 +32,8 @@
 			overlay.style.display = 'block';
 			overlay.style.left = '0';
 			overlay.style.top = '0';
-			overlay.style.height = '100vh';
-			overlay.style.width = '100vh';
+			overlay.style.height = '100%';
+			overlay.style.width = '100%';
 			overlay.style.visibility = 'hidden';
 			overlay.style.zIndex = '1';
 			overlay.style.position = 'fixed';
